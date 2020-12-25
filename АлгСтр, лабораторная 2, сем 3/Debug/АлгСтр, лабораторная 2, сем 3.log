@@ -1,0 +1,9 @@
+﻿  Prog.cpp
+C:\Users\lanie\source\repos\АлгСтр, лабораторная 2, сем 3\Prog.cpp(7,12): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+C:\Users\lanie\source\repos\АлгСтр, лабораторная 2, сем 3\Prog.cpp(16,12): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+C:\Users\lanie\source\repos\АлгСтр, лабораторная 2, сем 3\Prog.cpp(99,12): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+C:\Users\lanie\source\repos\АлгСтр, лабораторная 2, сем 3\Prog.cpp(140,16): warning C4244: =: преобразование "clock_t" в "float", возможна потеря данных
+C:\Users\lanie\source\repos\АлгСтр, лабораторная 2, сем 3\Prog.cpp(143,40): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+C:\Users\lanie\source\repos\АлгСтр, лабораторная 2, сем 3\Prog.cpp(154,16): warning C4244: =: преобразование "clock_t" в "float", возможна потеря данных
+C:\Users\lanie\source\repos\АлгСтр, лабораторная 2, сем 3\Prog.cpp(157,40): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+  АлгСтр, лабораторная 2, сем 3.vcxproj -> C:\Users\lanie\source\repos\АлгСтр, лабораторная 2, сем 3\Debug\АлгСтр, лабораторная 2, сем 3.exe
